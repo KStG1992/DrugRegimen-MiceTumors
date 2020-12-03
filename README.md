@@ -25,4 +25,4 @@ In this repository you will find two folders and Jupyter Notebook Script:
 ### Data
 * [Mouse_metadata.csv](Pymaceuticals/data/Mouse_metadata.csv)
 
-* [Study_results.csv]((Pymaceuticals/data/Study_results.csv)
+* [Study_results.csv](Pymaceuticals/data/Study_results.csv)
